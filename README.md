@@ -1,9 +1,10 @@
 Computer-Graphics
 =================
 
-Title: Add life to you Imagination     
-Language:  C++      
-Environment: Microsoft Visual Studio
+**Title:** Add life to you Imagination                                                         
+**Platform:** Windows                                                                      
+**Language:**  C++                                                         
+**Environment:** Microsoft Visual Studio                                              
 
 [OpenGl](http://oglplus.org/)
 
