@@ -2,7 +2,7 @@ Computer-Graphics
 =================
 
 Title: Add life to you Imagination     
-Language:  C++    , Opengl APIs
+Language:  C++      
 Environment: Microsoft Visual Studio
 
 [OpenGl](http://oglplus.org/)
